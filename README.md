@@ -3,6 +3,7 @@ simple jQuery progress bar can be minified as well if needed.
 
 
 To make it work:
+<br>
 HTML
 ````html
 <div id="progress"></div>
