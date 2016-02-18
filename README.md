@@ -7,5 +7,7 @@ HTML
 <div id="progress"></div>
 
 Javascript
+<br>
 var bar = $('#progress').progressbar();
+<br>
 bar.progress(100, $("#progress"));
